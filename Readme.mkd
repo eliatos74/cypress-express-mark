@@ -1,0 +1,7 @@
+Executar a aplicação: 
+
+     Acessa a pasta apps/api via linha de comando e digitar **yarn dev**
+
+    Acessa a pasta apps/web via linha de comando e digitar **yarn dev**
+
+    Abrir cypress: **yarn cypress open**
